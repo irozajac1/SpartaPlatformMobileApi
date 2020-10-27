@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\irma.rozajac\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\irma.rozajac\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_SpartaPlatformMobileApi.-1338201214.00" t="ExcludeRecursive" />
+    <e p="C:\Users\irma.rozajac\source\repos\SpartaPlatformMobileApi" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SpartaMobileWebApi" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="UserController.cs" t="Include" />
+        </e>
+        <e p="Data" t="Include">
+          <e p="Context" t="Include">
+            <e p="AuthenticationContext.cs" t="Include" />
+          </e>
+          <e p="Entities" t="Include">
+            <e p="SpartaUser.cs" t="Include" />
+          </e>
+          <e p="Migrations" t="Include">
+            <e p="20201026122305_Init.cs" t="Include" />
+            <e p="20201026122305_Init.Designer.cs" t="Include" />
+            <e p="AuthenticationContextModelSnapshot.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Helpers" t="Include">
+          <e p="AppSettings.cs" t="Include" />
+          <e p="JwtMiddleware.cs" t="Include" />
+          <e p="MappingProfile.cs" t="Include" />
+        </e>
+        <e p="Interfaces" t="Include">
+          <e p="IUserManagementRepository.cs" t="Include" />
+          <e p="IUserManagementUnitOfWork.cs" t="Include" />
+          <e p="IUserService.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Request" t="Include">
+            <e p="AuthenticateRequest.cs" t="Include" />
+            <e p="RegistrationRequest.cs" t="Include" />
+          </e>
+          <e p="Response" t="Include">
+            <e p="AuthenticateResponse.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="SpartaPlatformMobileApi.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="UserManagementRepository.cs" t="Include" />
+          <e p="UserManagementUnitOfWork.cs" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="UserService.cs" t="Include" />
+        </e>
+        <e p="SpartaPlatformMobileApi.csproj" t="IncludeRecursive" />
+        <e p="Startup.cs" t="Include" />
+        <e p="WeatherForecast.cs" t="Include" />
+      </e>
+      <e p="SpartaPlatformMobileApi.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\irma.rozajac\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\irma.rozajac\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
